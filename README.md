@@ -1,4 +1,4 @@
-Diego Fernando Bisquerra
+Diego Federico Bisquerra
 👨‍💻 Sobre mí
 Desarrollador apasionado especializado en crear soluciones tecnológicas innovadoras y aplicaciones web modernas y escalables.
 
