@@ -2,8 +2,8 @@
 
 **Building high-performance, "Liquid Luxury" web solutions to accelerate your next business idea.**
 
-[![GitHub followers](https://img.shields.io/github/followers/Diegofbis63?style=social&label=Follow&maxAge=2592000)
-[![GitHub stars](https://img.shields.io/github/stars/Diegofbis63?style=social&label=Star&maxAge=2592000)
+[![GitHub followers](https://img.shields.io/github/followers/Diegofbis63?style=social&label=Follow&maxAge=2592000)](https://github.com/Diegofbis63)
+[![GitHub stars](https://img.shields.io/github/stars/Diegofbis63?style=social&label=Star&maxAge=2592000)](https://github.com/Diegofbis63)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -15,41 +15,34 @@ Stop wasting weeks on setup. I build and sell production-ready codebases with en
 
 ### 🌟 Featured Products
 
-#### 🛍️ [Global-Hub E-commerce SaaS (Demo)](https://global-hub-demo.vercel.app)
+#### 🏥 [SaaS Estética Pro (Demo)](https://saas-estetica-pro.vercel.app/)
+*Premium management ecosystem for clinics featuring real-time scheduling, automated billing, and high-fidelity analytics.*
+- **Tech Stack**: Next.js, TypeScript, Supabase, NextAuth
+- 👉 **[Get The Code (Contact for Purchase)]**
 
-*The ultimate headless e-commerce boilerplate with Stripe integration and admin dashboard.*
+#### 📊 [E-Commerce Analytics SaaS (Demo)](https://e-commerce-analytics-saas.vercel.app/)
+*Enterprise analytics dashboard with predictive sales modeling and real-time inventory alerts.*
+- **Tech Stack**: Next.js 14, Supabase, Recharts, Tremor
+- 👉 **[Get The Code (Contact for Purchase)]**
 
-- **Tech Stack**: Next.js 14, Stripe, Prisma/Supabase, Tailwind CSS
-- **Perfect for**: E-commerce platforms, Marketplaces, Digital Product Stores.
-- 👉 **[Get The Code (Gumroad / Store Link)]**
+#### 🧠 [Gemini AI Architect (Demo)](https://gemini-code-assistant-five.vercel.app/)
+*Elite orchestration engine for multi-modal AI analysis, designed for sub-second latency.*
+- **Tech Stack**: Next.js, TypeScript, Google Gemini API
+- 👉 **[Get The Code (Contact for Purchase)]**
 
-#### 📈 [Data Analytics SaaS Boilerplate (Demo)](https://analytics-dashboard.vercel.app)
+#### 📈 [Industrial SaaS Intelligence (Demo)](https://analytics-dashboard-d5hf.vercel.app/)
+*Predictive architectural dashboard for heavy-duty resource allocation.*
+- **Tech Stack**: Next.js, Recharts, Supabase
+- 👉 **[Get The Code (Contact for Purchase)]**
 
-*Business intelligence dashboard with complex Recharts components and real-time data.*
-
-- **Tech Stack**: Next.js, Tremor/Recharts, Tailwind, PostgreSQL
-- **Perfect for**: B2B SaaS, Analytics tools, Internal CRMs.
-- 👉 **[Get The Code (Gumroad / Store Link)]**
-
-#### 🌤️ [Weather-App Pro (Demo)](https://weather-app-pro.vercel.app)
-
-*Advanced weather application featuring beautiful micro-interactions and Framer Motion.*
-
-- **Tech Stack**: React, TypeScript, Framer Motion, Tailwind
-- **Perfect for**: Micro-SaaS, Mobile-first Web Apps.
-- 👉 **[Get The Code (Gumroad / Store Link)]**
-
-#### 🚀 [High-Conversion Landing Page (Demo)](https://landing-page-ab-test-demo.vercel.app)
-
-*"Liquid Luxury" landing page template engineered for maximum conversions with A/B testing built-in.*
-
-- **Tech Stack**: Next.js, Framer Motion, GSAP
-- **Perfect for**: SaaS Marketing, Agency portfolios, Product launches.
-- 👉 **[Get The Code (Gumroad / Store Link)]**
+#### 🚀 [Landing Page A/B Engine (Demo)](https://landing-page-ab-test-demo.vercel.app)
+*High-performance marketing landing with real-time A/B split testing and lead capture.*
+- **Tech Stack**: Next.js 16, Framer Motion, Supabase
+- 👉 **[Get The Code (Contact for Purchase)]**
 
 ---
 
-## 💎 The "Liquid Luxury" Standard ($50k Quality)
+## 💎 The "Liquid Luxury" Standard
 
 All my products are built adhering to a top-tier tech standard:
 
