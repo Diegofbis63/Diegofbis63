@@ -44,7 +44,7 @@
 | Proyecto | Stack | Demo |
 |---|---|---|
 | **Gemini AI Architect** | Next.js 15 · Gemini API · Framer Motion | [🔗 Ver demo](https://gemini-code-assistant-five.vercel.app) |
-| **Portfolio Antigravity** | Next.js 15 · Spline 3D · Supabase | [🔗 Ver demo](https://dfbportfolio.vercel.app) |
+| **Portfolio Personal** | Next.js 15 · Spline 3D · Supabase | [🔗 Ver demo](https://dfbportfolio.vercel.app) |
 | **SaaS Estética Pro** | Next.js 15 · Supabase · Gemini 2.5 Flash | [🔗 Ver demo](https://saas-estetica-pro.vercel.app) |
 | **Quantix AI — E-commerce Analytics** | Next.js · Zustand · Recharts · i18n | [🔗 Ver demo](https://e-commerce-analytics-saas.vercel.app) |
 | **Analytics Dashboard** | Next.js 15 · TypeScript · Supabase Realtime | [🔗 Ver demo](https://analytics-dashboard-gilt-nine.vercel.app) |
