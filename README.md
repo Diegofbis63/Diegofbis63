@@ -38,7 +38,7 @@
 ## 🚀 Proyectos destacados / Featured Projects
 
 > Los proyectos comerciales son privados. A continuación, demos en producción:
-> 
+>
 > *Commercial projects are private. Production demos below:*
 
 | Proyecto | Stack | Demo |
@@ -61,19 +61,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tecnologías / Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diegofbis63&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegofbis63&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_2-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion_11-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand_5-764ABC?style=flat-square&logo=react&logoColor=white)
 
 ---
 
 ## 📬 Contacto / Contact
 
 **Disponible para:** Proyectos a medida · Posiciones remotas full-time · Contratos  
-**Available for:** Custom development · Full-time remote roles · Contracts  
+**Available for:** Custom development · Full-time remote roles · Contracts
 
 📍 Córdoba, Argentina — GMT-3 · Disponible para equipos globales
 
