@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://dfbportfolio.vercel.app" target="_blank">🌐 Portfolio</a> · 
-  <a href="https://www.linkedin.com/in/diego-bisquerra" target="_blank">💼 LinkedIn</a> · 
+  <a href="https://www.linkedin.com/in/diego-bisquerra-283ab7192/" target="_blank">💼 LinkedIn</a> · 
   <a href="mailto:diegofbis63@gmail.com">✉️ Contacto</a>
 </p>
 
@@ -84,4 +84,4 @@
 📍 Córdoba, Argentina — GMT-3 · Disponible para equipos globales
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dfbportfolio.vercel.app-blue?style=flat-square&logo=vercel)](https://dfbportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Bisquerra-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diego-bisquerra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Bisquerra-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diego-bisquerra-283ab7192/)
